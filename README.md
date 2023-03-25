@@ -4,10 +4,10 @@ App for accounting of household finances with authorization
 ## Get start
 
 ### Test userData
-
+```sh
 login: test@test.ru
 password: 12345678Qq
-
+```
 ### Backend launch
 
 ```sh
